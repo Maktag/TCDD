@@ -1,0 +1,11 @@
+{
+    "Module_Name": "CheckboxModule",
+    "Test_cases": {
+        "tc_001": "Working as expected_P",
+        "tc_002": "Element is not appearing on the screen._F"
+    },
+    "TimeStamp": [
+        "Fri 2019-08-16 11:49:40",
+        "Fri 2019-08-16 11:49:41"
+    ]
+}

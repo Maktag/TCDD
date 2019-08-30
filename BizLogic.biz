@@ -1,0 +1,17 @@
+Scenario1: Login functionality of facebook
+    Pre_Condition User is on the Login page of facebook
+    Action Login with the $username and $password
+    Input user1@name.com, testpassword1, user2@name.com, testpassword2,user3@name.com, testpassword3
+    Expected Screen should be redirected to facebook wall
+
+Scenario2: Login functionality of twitter
+    Pre_Condition User is on the Login page of twitter
+    Action Login with the $username2 and $password2
+    Input user1@name.com, testpassword1, user2@name.com, testpassword2,user3@name.com, testpassword3
+    Expected Screen should be redirected to twitter wall
+
+Scenario3: Login functionality of email
+    Pre_Condition User is on the Login page of email
+    Action Login with the $username3 and $password3
+    Input user1@name.com, testpassword1, user2@name.com, testpassword2,user3@name.com, testpassword3
+    Expected Screen should be redirected to email wall
