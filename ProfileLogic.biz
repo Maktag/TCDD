@@ -1,4 +1,3 @@
-
 Scenario1: Login functionality of facebook
     Pre_Condition User is on the Login page of facebook
     Action Login with the $username and $password

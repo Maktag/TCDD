@@ -1,5 +1,5 @@
 {
-    "Module_Name": "Testing",
+    "Module_Name": "ProfileLogic.biz",
     "Test_cases": {
         "Scenario1": " Login functionality of facebook_P",
         "Scenario2": " Login functionality of twitter_P",
@@ -7,7 +7,7 @@
         "Scenario4": " Verify the Profile of the user_P"
     },
     "TimeStamp": [
-        "Mon 2019-09-02 14:51:44",
-        "Mon 2019-09-02 14:51:44"
+        "Tue 2019-09-03 15:01:40",
+        "Tue 2019-09-03 15:01:40"
     ]
 }
